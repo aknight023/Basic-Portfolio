@@ -112,8 +112,7 @@ input[type=submit] {
 }
 
 .portContainer {
-    float: left;
-    vertical-align: middle;
+    float: left;    
 }
 
 .portImg {
@@ -126,7 +125,7 @@ input[type=submit] {
 .portHeader {
     position: absolute;
     text-align: center;
-    bottom: 16px;    
+    bottom: 36px;    
     
 }
 
